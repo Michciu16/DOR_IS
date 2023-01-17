@@ -1,2 +1,2 @@
 # DOR_IS
-DevOps course with InfoShare Academy.
+DevOps course InfoShare Academy.
